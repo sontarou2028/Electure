@@ -1,0 +1,14 @@
+C:\Users\お前誰？\source\repos\Electure_oldstyle\bin\Debug\net8.0\Electure_oldstyle.exe
+C:\Users\お前誰？\source\repos\Electure_oldstyle\bin\Debug\net8.0\Electure_oldstyle.deps.json
+C:\Users\お前誰？\source\repos\Electure_oldstyle\bin\Debug\net8.0\Electure_oldstyle.runtimeconfig.json
+C:\Users\お前誰？\source\repos\Electure_oldstyle\bin\Debug\net8.0\Electure_oldstyle.dll
+C:\Users\お前誰？\source\repos\Electure_oldstyle\bin\Debug\net8.0\Electure_oldstyle.pdb
+C:\Users\お前誰？\source\repos\Electure_oldstyle\obj\Debug\net8.0\Electure_oldstyle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\お前誰？\source\repos\Electure_oldstyle\obj\Debug\net8.0\Electure_oldstyle.AssemblyInfoInputs.cache
+C:\Users\お前誰？\source\repos\Electure_oldstyle\obj\Debug\net8.0\Electure_oldstyle.AssemblyInfo.cs
+C:\Users\お前誰？\source\repos\Electure_oldstyle\obj\Debug\net8.0\Electure_oldstyle.csproj.CoreCompileInputs.cache
+C:\Users\お前誰？\source\repos\Electure_oldstyle\obj\Debug\net8.0\Electure_oldstyle.dll
+C:\Users\お前誰？\source\repos\Electure_oldstyle\obj\Debug\net8.0\refint\Electure_oldstyle.dll
+C:\Users\お前誰？\source\repos\Electure_oldstyle\obj\Debug\net8.0\Electure_oldstyle.pdb
+C:\Users\お前誰？\source\repos\Electure_oldstyle\obj\Debug\net8.0\Electure_oldstyle.genruntimeconfig.cache
+C:\Users\お前誰？\source\repos\Electure_oldstyle\obj\Debug\net8.0\ref\Electure_oldstyle.dll
